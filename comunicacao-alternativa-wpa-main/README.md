@@ -40,15 +40,3 @@ npm run start
 [![My Skills](https://skillicons.dev/icons?i=react,firebase,materialui,styledcomponents)](https://skillicons.dev)
 
 <br/>
-
-## Author
-
-👤 **William soares**
-
-- Website: https://www.linkedin.com/in/william-soares-de-lima-4ab619164
-- Github: [@williamsoaresdelima](https://github.com/williamsoaresdelima)
-- LinkedIn: [@William Soares](https://linkedin.com/in/William Soares)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/williamsoaresdelima/namoro-pet/issues).
